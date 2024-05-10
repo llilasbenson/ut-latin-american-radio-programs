@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Latin American Radio Programs of the Longhorn Radio Network" ] },
+    "summary": { "en": [ "Audio recordings (reel-to-reel audiotapes and audio cassettes) along with scripts of the news report and interview segments of the \"Latin American Press Review\" (1973-1974) and \"Latin American Review\" (1976-1984) radio programs from the Longhorn Radio Network and the Institute of Latin American Studies at the University of Texas at Austin." ] },
+    "items": [
+    ]
+}
